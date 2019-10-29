@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Login tests">
+
+
+<test name="User credentials validation">
+<classes>
+<class name="com.stackroute.testcases.TestClass_5" />
+</classes>
+</test> 
+
+</suite>
+
